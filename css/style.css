@@ -1,0 +1,20 @@
+/* .blue{
+    border:1px solid blue;
+} */
+.movie{
+    
+    opacity:0.9;
+    cursor:pointer;
+    width:100%;
+    
+}
+.movie:hover{
+    opacity:1;
+}
+
+.col{
+    padding-right:0.4px !important;
+    padding-left:0.4px !important;
+    padding-top:0 !important;
+    padding-bottom:0 !important;
+}
